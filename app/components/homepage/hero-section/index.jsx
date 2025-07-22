@@ -119,9 +119,9 @@ function HeroSection() {
                 <span className="text-amber-300">Angular</span>
                 <span className="text-gray-400">{"', '"}</span>
                  <span className="text-amber-300">EF Core</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"','"}</span>
                  <span className="text-amber-300">API</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"',"}</span>
                 <span className="text-amber-300">MVC</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">SQL</span>
