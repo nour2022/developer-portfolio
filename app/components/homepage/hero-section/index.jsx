@@ -118,14 +118,15 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Angular</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">EF Core</span>
+                 <span className="text-amber-300">EF Core</span>
+                <span className="text-gray-400">{"'],"}</span>
+                 <span className="text-amber-300">API</span>
+                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-amber-300">MVC</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">SQL</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">API</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MVC</span>
-                <span className="text-gray-400">{"', '"}</span>
+              
                 <span className="text-amber-300">Bootstrap</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">HTML</span>
@@ -135,6 +136,11 @@ function HeroSection() {
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
+                <span className="text-orange-400">true</span>
+                <span className="text-gray-400">,</span>
+              </div>
+                  <div>
+                <span className="ml-4 lg:ml-8 mr-2 text-white">CleanCoding:</span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">,</span>
               </div>
