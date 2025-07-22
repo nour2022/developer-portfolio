@@ -6,7 +6,7 @@ const GlowCard = ({ children , identifier}) => {
   useEffect(() => {
     const CONTAINER = document.querySelector(`.glow-container-${identifier}`);
     const CARDS = document.querySelectorAll(`.glow-card-${identifier}`);
-
+ if (!CONTAINER) return;
     const CONFIG = {
       proximity: 40,
       spread: 80,
